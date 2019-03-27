@@ -10,7 +10,7 @@
 %union 
 {
 	TreeNode* a;
-	double d;
+	int d;
 }
 
 %token <d> NUMBER
